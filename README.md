@@ -4,7 +4,7 @@
 
 ## Basic Features
 
-- [ ] Registration and Login
+- [ ] User Registration and Login
 
 ## Recipes CRUD
 
@@ -29,6 +29,16 @@
 - [ ] Enter ingredients
 
 ## Suggestions based on missing ingredients -- connect to advertisers
+
+- [ ] Vendor Registration and Login
+    - [ ] Adding (or selecting) ingredients
+
+
+
+
+
+
+
 
 
 
