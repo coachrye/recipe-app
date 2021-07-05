@@ -2,6 +2,11 @@
 
 # High-Level Features
 
+- [ ] Create classes
+    - [x] Recipes
+    - [x] Ingredients
+    - [x] Users
+
 ## Basic Features
 
 - [ ] User Registration and Login
